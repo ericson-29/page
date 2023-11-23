@@ -50,6 +50,7 @@ const Body = () => {
     <div style={background}>
       <LoginForm />
     </div>
+
   );
 };
 
